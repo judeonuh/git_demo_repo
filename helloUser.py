@@ -1,6 +1,6 @@
 """
 This program requests user name,
-and prints a greeting message.
+and prints a greeting message to the user.
 """
 
 username = input("What is your name: ")
